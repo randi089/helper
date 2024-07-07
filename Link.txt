@@ -3,6 +3,7 @@
 1. Polygon Image : https://bennettfeely.com/clippy/
 
 	--COLOR--
-1. color1 : https://color.adobe.com/
-2. color2 : https://colorhunt.co/
+1. Color Adobe : https://color.adobe.com/
+2. Color Hunt : https://colorhunt.co/
+3. Color Wheel Canva : https://www.canva.com/colors/color-wheel/
 

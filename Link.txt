@@ -1,6 +1,7 @@
 	--IMAGE--
 
 1. Polygon Image : https://bennettfeely.com/clippy/
+2. Edit Image and Compress : https://squoosh.app/
 
 	--COLOR--
 1. Color Adobe : https://color.adobe.com/

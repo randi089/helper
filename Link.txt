@@ -2,13 +2,28 @@
 
 1. Polygon Image : https://bennettfeely.com/clippy/
 2. Edit Image and Compress : https://squoosh.app/
+3. Ilustrasi Image : https://undraw.co/
+4. Ilustrasi Image : https://usesmash.com/
+5. Icon : https://www.flaticon.com/
+6. Phone Display : https://mockuphone.com/
+7. Remove Bg : https://www.remove.bg/
 
 	--COLOR--
 1. Color Adobe : https://color.adobe.com/
 2. Color Hunt : https://colorhunt.co/
 3. Color Wheel Canva : https://www.canva.com/colors/color-wheel/
+4. Generate Color : https://coolors.co/
+5. Gradient Generator : https://cssgradient.io/
 
 	--Other--
 1. Freepik : https://www.freepik.com/ (image, vektor etc)
 2. Convertio : https://convertio.co/id/ (convert file ex: img etc)
 3. Gelombang : https://getwaves.io/
+4. Pexels : https://www.pexels.com/ (img, video etc)
+5. Pixabay : https://pixabay.com/ (img, video, musik etc)
+6. Docs All : https://devdocs.io/
+7. Cheatsheets : https://devhints.io/
+8. Cek support browser : https://caniuse.com/
+9. Inspirasi Web : https://dribbble.com/
+10. Inspirasi Web : https://www.awwwards.com/
+11. Inspirasi Web : https://www.siteinspire.com/

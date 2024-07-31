@@ -34,3 +34,5 @@
 13. Typing Test : https://monkeytype.com/
 14. Typing Test : https://10fastfingers.com/
 15. Balap Ngetik : https://play.typeracer.com/
+16. Animasi : https://gsap.com/
+17. Animasi : https://michalsnik.github.io/aos/

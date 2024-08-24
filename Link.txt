@@ -10,6 +10,7 @@
 5. Icon : https://www.flaticon.com/
 6. Phone Display : https://mockuphone.com/
 7. Remove Bg : https://www.remove.bg/
+8. Svg Bg : https://www.blobmaker.app/
 
 	--COLOR--
 1. Color Adobe : https://color.adobe.com/

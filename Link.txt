@@ -11,6 +11,7 @@
 6. Phone Display : https://mockuphone.com/
 7. Remove Bg : https://www.remove.bg/
 8. Svg Bg : https://www.blobmaker.app/
+9. Icon : https://simpleicons.org/
 
 	--COLOR--
 1. Color Adobe : https://color.adobe.com/
